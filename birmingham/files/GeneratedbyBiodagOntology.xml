@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<omr:container xmlns:omr="http://briccs.org.uk/xml/onyxmetadata-refined/v1.0/omr" name="Bham">
+ <omr:folder name="Bham">
+  <omr:folder name="Nominal_Ontology">
+   <omr:folder name="Alcohol_history">
+    <omr:folder name="Alcohol_type_beer/wine">
+     <omr:variable name="No" code="CBO:BeerWine:No" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Yes" code="CBO:BeerWine:Yes" type="BOOLEAN"></omr:variable>
+    </omr:folder>
+    <omr:folder name="Alcohol_type_spirits">
+     <omr:variable name="No" code="CBO:Spirits:No" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Yes" code="CBO:Spirits:Yes" type="BOOLEAN"></omr:variable>
+    </omr:folder>
+    <omr:folder name="Alcohol_units_per_week">
+     <omr:folder name="0-9">
+      <omr:variable name="0" code="CBO:Alcoholperweek:0" type="BOOLEAN"></omr:variable>
+      <omr:variable name="1" code="CBO:Alcoholperweek:1" type="BOOLEAN"></omr:variable>
+      <omr:variable name="2" code="CBO:Alcoholperweek:2" type="BOOLEAN"></omr:variable>
+      <omr:variable name="3" code="CBO:Alcoholperweek:3" type="BOOLEAN"></omr:variable>
+      <omr:variable name="4" code="CBO:Alcoholperweek:4" type="BOOLEAN"></omr:variable>
+      <omr:variable name="5" code="CBO:Alcoholperweek:5" type="BOOLEAN"></omr:variable>
+      <omr:variable name="6" code="CBO:Alcoholperweek:6" type="BOOLEAN"></omr:variable>
+      <omr:variable name="7" code="CBO:Alcoholperweek:7" type="BOOLEAN"></omr:variable>
+      <omr:variable name="8" code="CBO:Alcoholperweek:8" type="BOOLEAN"></omr:variable>
+      <omr:variable name="9" code="CBO:Alcoholperweek:9" type="BOOLEAN"></omr:variable>
+     </omr:folder>
+     <omr:folder name="10-19">
+      <omr:variable name="10" code="CBO:Alcoholperweek:10" type="BOOLEAN"></omr:variable>
+      <omr:variable name="11" code="CBO:Alcoholperweek:11" type="BOOLEAN"></omr:variable>
+      <omr:variable name="12" code="CBO:Alcoholperweek:12" type="BOOLEAN"></omr:variable>
+      <omr:variable name="13" code="CBO:Alcoholperweek:13" type="BOOLEAN"></omr:variable>
+      <omr:variable name="14" code="CBO:Alcoholperweek:14" type="BOOLEAN"></omr:variable>
+      <omr:variable name="15" code="CBO:Alcoholperweek:15" type="BOOLEAN"></omr:variable>
+      <omr:variable name="16" code="CBO:Alcoholperweek:16" type="BOOLEAN"></omr:variable>
+      <omr:variable name="17" code="CBO:Alcoholperweek:17" type="BOOLEAN"></omr:variable>
+      <omr:variable name="18" code="CBO:Alcoholperweek:18" type="BOOLEAN"></omr:variable>
+      <omr:variable name="19" code="CBO:Alcoholperweek:19" type="BOOLEAN"></omr:variable>
+     </omr:folder>
+     <omr:folder name="100-999">
+      <omr:variable name="100" code="CBO:Alcoholperweek:100" type="BOOLEAN"></omr:variable>
+      <omr:variable name="200" code="CBO:Alcoholperweek:200" type="BOOLEAN"></omr:variable>
+      <omr:variable name="300" code="CBO:Alcoholperweek:300" type="BOOLEAN"></omr:variable>
+      <omr:variable name="400" code="CBO:Alcoholperweek:400" type="BOOLEAN"></omr:variable>
+      <omr:variable name="500" code="CBO:Alcoholperweek:500" type="BOOLEAN"></omr:variable>
+      <omr:variable name="600" code="CBO:Alcoholperweek:600" type="BOOLEAN"></omr:variable>
+      <omr:variable name="700" code="CBO:Alcoholperweek:700" type="BOOLEAN"></omr:variable>
+      <omr:variable name="800" code="CBO:Alcoholperweek:800" type="BOOLEAN"></omr:variable>
+      <omr:variable name="900" code="CBO:Alcoholperweek:900" type="BOOLEAN"></omr:variable>
+      <omr:variable name="999" code="CBO:Alcoholperweek:999" type="BOOLEAN"></omr:variable>
+     </omr:folder>
+     <omr:folder name="20-29">
+      <omr:variable name="20" code="CBO:Alcoholperweek:20" type="BOOLEAN"></omr:variable>
+      <omr:variable name="21" code="CBO:Alcoholperweek:21" type="BOOLEAN"></omr:variable>
+      <omr:variable name="22" code="CBO:Alcoholperweek:22" type="BOOLEAN"></omr:variable>
+      <omr:variable name="23" code="CBO:Alcoholperweek:23" type="BOOLEAN"></omr:variable>
+      <omr:variable name="24" code="CBO:Alcoholperweek:24" type="BOOLEAN"></omr:variable>
+      <omr:variable name="25" code="CBO:Alcoholperweek:25" type="BOOLEAN"></omr:variable>
+      <omr:variable name="26" code="CBO:Alcoholperweek:26" type="BOOLEAN"></omr:variable>
+      <omr:variable name="27" code="CBO:Alcoholperweek:27" type="BOOLEAN"></omr:variable>
+      <omr:variable name="28" code="CBO:Alcoholperweek:28" type="BOOLEAN"></omr:variable>
+      <omr:variable name="29" code="CBO:Alcoholperweek:29" type="BOOLEAN"></omr:variable>
+     </omr:folder>
+     <omr:folder name="30-39">
+      <omr:variable name="30" code="CBO:Alcoholperweek:30" type="BOOLEAN"></omr:variable>
+      <omr:variable name="31" code="CBO:Alcoholperweek:31" type="BOOLEAN"></omr:variable>
+      <omr:variable name="32" code="CBO:Alcoholperweek:32" type="BOOLEAN"></omr:variable>
+      <omr:variable name="33" code="CBO:Alcoholperweek:33" type="BOOLEAN"></omr:variable>
+      <omr:variable name="34" code="CBO:Alcoholperweek:34" type="BOOLEAN"></omr:variable>
+      <omr:variable name="35" code="CBO:Alcoholperweek:35" type="BOOLEAN"></omr:variable>
+      <omr:variable name="36" code="CBO:Alcoholperweek:36" type="BOOLEAN"></omr:variable>
+      <omr:variable name="37" code="CBO:Alcoholperweek:37" type="BOOLEAN"></omr:variable>
+      <omr:variable name="38" code="CBO:Alcoholperweek:38" type="BOOLEAN"></omr:variable>
+      <omr:variable name="39" code="CBO:Alcoholperweek:39" type="BOOLEAN"></omr:variable>
+     </omr:folder>
+     <omr:folder name="40-99">
+      <omr:variable name="40" code="CBO:Alcoholperweek:40" type="BOOLEAN"></omr:variable>
+      <omr:variable name="50" code="CBO:Alcoholperweek:50" type="BOOLEAN"></omr:variable>
+      <omr:variable name="60" code="CBO:Alcoholperweek:60" type="BOOLEAN"></omr:variable>
+      <omr:variable name="70" code="CBO:Alcoholperweek:70" type="BOOLEAN"></omr:variable>
+      <omr:variable name="80" code="CBO:Alcoholperweek:80" type="BOOLEAN"></omr:variable>
+      <omr:variable name="90" code="CBO:Alcoholperweek:90" type="BOOLEAN"></omr:variable>
+     </omr:folder>
+    </omr:folder>
+    <omr:folder name="Years_of_consumption">
+     <omr:folder name="0-9">
+      <omr:variable name="0" code="CBO:YearsAlcoholConsumption:0" type="BOOLEAN"></omr:variable>
+      <omr:variable name="1" code="CBO:YearsAlcoholConsumption:1" type="BOOLEAN"></omr:variable>
+      <omr:variable name="2" code="CBO:YearsAlcoholConsumption:2" type="BOOLEAN"></omr:variable>
+      <omr:variable name="3" code="CBO:YearsAlcoholConsumption:3" type="BOOLEAN"></omr:variable>
+      <omr:variable name="4" code="CBO:YearsAlcoholConsumption:4" type="BOOLEAN"></omr:variable>
+      <omr:variable name="5" code="CBO:YearsAlcoholConsumption:5" type="BOOLEAN"></omr:variable>
+      <omr:variable name="6" code="CBO:YearsAlcoholConsumption:6" type="BOOLEAN"></omr:variable>
+      <omr:variable name="7" code="CBO:YearsAlcoholConsumption:7" type="BOOLEAN"></omr:variable>
+      <omr:variable name="8" code="CBO:YearsAlcoholConsumption:8" type="BOOLEAN"></omr:variable>
+      <omr:variable name="9" code="CBO:YearsAlcoholConsumption:9" type="BOOLEAN"></omr:variable>
+     </omr:folder>
+     <omr:folder name="10-19">
+      <omr:variable name="10" code="CBO:YearsAlcoholConsumption:10" type="BOOLEAN"></omr:variable>
+      <omr:variable name="11" code="CBO:YearsAlcoholConsumption:11" type="BOOLEAN"></omr:variable>
+      <omr:variable name="12" code="CBO:YearsAlcoholConsumption:12" type="BOOLEAN"></omr:variable>
+      <omr:variable name="13" code="CBO:YearsAlcoholConsumption:13" type="BOOLEAN"></omr:variable>
+      <omr:variable name="14" code="CBO:YearsAlcoholConsumption:14" type="BOOLEAN"></omr:variable>
+      <omr:variable name="15" code="CBO:YearsAlcoholConsumption:15" type="BOOLEAN"></omr:variable>
+      <omr:variable name="16" code="CBO:YearsAlcoholConsumption:16" type="BOOLEAN"></omr:variable>
+      <omr:variable name="17" code="CBO:YearsAlcoholConsumption:17" type="BOOLEAN"></omr:variable>
+      <omr:variable name="18" code="CBO:YearsAlcoholConsumption:18" type="BOOLEAN"></omr:variable>
+      <omr:variable name="19" code="CBO:YearsAlcoholConsumption:19" type="BOOLEAN"></omr:variable>
+     </omr:folder>
+     <omr:folder name="20-29">
+      <omr:variable name="20" code="CBO:YearsAlcoholConsumption:20" type="BOOLEAN"></omr:variable>
+      <omr:variable name="21" code="CBO:YearsAlcoholConsumption:21" type="BOOLEAN"></omr:variable>
+      <omr:variable name="22" code="CBO:YearsAlcoholConsumption:22" type="BOOLEAN"></omr:variable>
+      <omr:variable name="23" code="CBO:YearsAlcoholConsumption:23" type="BOOLEAN"></omr:variable>
+      <omr:variable name="24" code="CBO:YearsAlcoholConsumption:24" type="BOOLEAN"></omr:variable>
+      <omr:variable name="25" code="CBO:YearsAlcoholConsumption:25" type="BOOLEAN"></omr:variable>
+      <omr:variable name="26" code="CBO:YearsAlcoholConsumption:26" type="BOOLEAN"></omr:variable>
+      <omr:variable name="27" code="CBO:YearsAlcoholConsumption:27" type="BOOLEAN"></omr:variable>
+      <omr:variable name="28" code="CBO:YearsAlcoholConsumption:28" type="BOOLEAN"></omr:variable>
+      <omr:variable name="29" code="CBO:YearsAlcoholConsumption:29" type="BOOLEAN"></omr:variable>
+     </omr:folder>
+     <omr:folder name="30-39">
+      <omr:variable name="30" code="CBO:YearsAlcoholConsumption:30" type="BOOLEAN"></omr:variable>
+      <omr:variable name="31" code="CBO:YearsAlcoholConsumption:31" type="BOOLEAN"></omr:variable>
+      <omr:variable name="32" code="CBO:YearsAlcoholConsumption:32" type="BOOLEAN"></omr:variable>
+      <omr:variable name="33" code="CBO:YearsAlcoholConsumption:33" type="BOOLEAN"></omr:variable>
+      <omr:variable name="34" code="CBO:YearsAlcoholConsumption:34" type="BOOLEAN"></omr:variable>
+      <omr:variable name="35" code="CBO:YearsAlcoholConsumption:35" type="BOOLEAN"></omr:variable>
+      <omr:variable name="36" code="CBO:YearsAlcoholConsumption:36" type="BOOLEAN"></omr:variable>
+      <omr:variable name="37" code="CBO:YearsAlcoholConsumption:37" type="BOOLEAN"></omr:variable>
+      <omr:variable name="38" code="CBO:YearsAlcoholConsumption:38" type="BOOLEAN"></omr:variable>
+      <omr:variable name="39" code="CBO:YearsAlcoholConsumption:39" type="BOOLEAN"></omr:variable>
+     </omr:folder>
+     <omr:folder name="40-49">
+      <omr:variable name="40" code="CBO:YearsAlcoholConsumption:40" type="BOOLEAN"></omr:variable>
+      <omr:variable name="41" code="CBO:YearsAlcoholConsumption:41" type="BOOLEAN"></omr:variable>
+      <omr:variable name="42" code="CBO:YearsAlcoholConsumption:42" type="BOOLEAN"></omr:variable>
+      <omr:variable name="43" code="CBO:YearsAlcoholConsumption:43" type="BOOLEAN"></omr:variable>
+      <omr:variable name="44" code="CBO:YearsAlcoholConsumption:44" type="BOOLEAN"></omr:variable>
+      <omr:variable name="45" code="CBO:YearsAlcoholConsumption:45" type="BOOLEAN"></omr:variable>
+      <omr:variable name="46" code="CBO:YearsAlcoholConsumption:46" type="BOOLEAN"></omr:variable>
+      <omr:variable name="47" code="CBO:YearsAlcoholConsumption:47" type="BOOLEAN"></omr:variable>
+      <omr:variable name="48" code="CBO:YearsAlcoholConsumption:48" type="BOOLEAN"></omr:variable>
+      <omr:variable name="49" code="CBO:YearsAlcoholConsumption:49" type="BOOLEAN"></omr:variable>
+     </omr:folder>
+     <omr:folder name="50-59">
+      <omr:variable name="50" code="CBO:YearsAlcoholConsumption:50" type="BOOLEAN"></omr:variable>
+      <omr:variable name="51" code="CBO:YearsAlcoholConsumption:51" type="BOOLEAN"></omr:variable>
+      <omr:variable name="52" code="CBO:YearsAlcoholConsumption:52" type="BOOLEAN"></omr:variable>
+      <omr:variable name="53" code="CBO:YearsAlcoholConsumption:53" type="BOOLEAN"></omr:variable>
+      <omr:variable name="54" code="CBO:YearsAlcoholConsumption:54" type="BOOLEAN"></omr:variable>
+      <omr:variable name="55" code="CBO:YearsAlcoholConsumption:55" type="BOOLEAN"></omr:variable>
+      <omr:variable name="56" code="CBO:YearsAlcoholConsumption:56" type="BOOLEAN"></omr:variable>
+      <omr:variable name="57" code="CBO:YearsAlcoholConsumption:57" type="BOOLEAN"></omr:variable>
+      <omr:variable name="58" code="CBO:YearsAlcoholConsumption:58" type="BOOLEAN"></omr:variable>
+      <omr:variable name="59" code="CBO:YearsAlcoholConsumption:59" type="BOOLEAN"></omr:variable>
+     </omr:folder>
+     <omr:folder name="60-69">
+      <omr:variable name="60" code="CBO:YearsAlcoholConsumption:60" type="BOOLEAN"></omr:variable>
+      <omr:variable name="61" code="CBO:YearsAlcoholConsumption:61" type="BOOLEAN"></omr:variable>
+      <omr:variable name="62" code="CBO:YearsAlcoholConsumption:62" type="BOOLEAN"></omr:variable>
+      <omr:variable name="63" code="CBO:YearsAlcoholConsumption:63" type="BOOLEAN"></omr:variable>
+      <omr:variable name="64" code="CBO:YearsAlcoholConsumption:64" type="BOOLEAN"></omr:variable>
+      <omr:variable name="65" code="CBO:YearsAlcoholConsumption:65" type="BOOLEAN"></omr:variable>
+      <omr:variable name="66" code="CBO:YearsAlcoholConsumption:66" type="BOOLEAN"></omr:variable>
+      <omr:variable name="67" code="CBO:YearsAlcoholConsumption:67" type="BOOLEAN"></omr:variable>
+      <omr:variable name="68" code="CBO:YearsAlcoholConsumption:68" type="BOOLEAN"></omr:variable>
+      <omr:variable name="69" code="CBO:YearsAlcoholConsumption:69" type="BOOLEAN"></omr:variable>
+     </omr:folder>
+     <omr:folder name="70-100">
+      <omr:variable name="100" code="CBO:YearsAlcoholConsumption:100" type="BOOLEAN"></omr:variable>
+      <omr:variable name="70" code="CBO:YearsAlcoholConsumption:70" type="BOOLEAN"></omr:variable>
+      <omr:variable name="71" code="CBO:YearsAlcoholConsumption:71" type="BOOLEAN"></omr:variable>
+      <omr:variable name="72" code="CBO:YearsAlcoholConsumption:72" type="BOOLEAN"></omr:variable>
+      <omr:variable name="73" code="CBO:YearsAlcoholConsumption:73" type="BOOLEAN"></omr:variable>
+      <omr:variable name="74" code="CBO:YearsAlcoholConsumption:74" type="BOOLEAN"></omr:variable>
+      <omr:variable name="75" code="CBO:YearsAlcoholConsumption:75" type="BOOLEAN"></omr:variable>
+      <omr:variable name="76" code="CBO:YearsAlcoholConsumption:76" type="BOOLEAN"></omr:variable>
+      <omr:variable name="77" code="CBO:YearsAlcoholConsumption:77" type="BOOLEAN"></omr:variable>
+      <omr:variable name="78" code="CBO:YearsAlcoholConsumption:78" type="BOOLEAN"></omr:variable>
+      <omr:variable name="79" code="CBO:YearsAlcoholConsumption:79" type="BOOLEAN"></omr:variable>
+      <omr:variable name="80" code="CBO:YearsAlcoholConsumption:80" type="BOOLEAN"></omr:variable>
+      <omr:variable name="81" code="CBO:YearsAlcoholConsumption:81" type="BOOLEAN"></omr:variable>
+      <omr:variable name="82" code="CBO:YearsAlcoholConsumption:82" type="BOOLEAN"></omr:variable>
+      <omr:variable name="83" code="CBO:YearsAlcoholConsumption:83" type="BOOLEAN"></omr:variable>
+      <omr:variable name="84" code="CBO:YearsAlcoholConsumption:84" type="BOOLEAN"></omr:variable>
+      <omr:variable name="85" code="CBO:YearsAlcoholConsumption:85" type="BOOLEAN"></omr:variable>
+      <omr:variable name="86" code="CBO:YearsAlcoholConsumption:86" type="BOOLEAN"></omr:variable>
+      <omr:variable name="87" code="CBO:YearsAlcoholConsumption:87" type="BOOLEAN"></omr:variable>
+      <omr:variable name="88" code="CBO:YearsAlcoholConsumption:88" type="BOOLEAN"></omr:variable>
+      <omr:variable name="89" code="CBO:YearsAlcoholConsumption:89" type="BOOLEAN"></omr:variable>
+      <omr:variable name="90" code="CBO:YearsAlcoholConsumption:90" type="BOOLEAN"></omr:variable>
+      <omr:variable name="91" code="CBO:YearsAlcoholConsumption:91" type="BOOLEAN"></omr:variable>
+      <omr:variable name="92" code="CBO:YearsAlcoholConsumption:92" type="BOOLEAN"></omr:variable>
+      <omr:variable name="93" code="CBO:YearsAlcoholConsumption:93" type="BOOLEAN"></omr:variable>
+      <omr:variable name="94" code="CBO:YearsAlcoholConsumption:94" type="BOOLEAN"></omr:variable>
+      <omr:variable name="95" code="CBO:YearsAlcoholConsumption:95" type="BOOLEAN"></omr:variable>
+      <omr:variable name="96" code="CBO:YearsAlcoholConsumption:96" type="BOOLEAN"></omr:variable>
+      <omr:variable name="97" code="CBO:YearsAlcoholConsumption:97" type="BOOLEAN"></omr:variable>
+      <omr:variable name="98" code="CBO:YearsAlcoholConsumption:98" type="BOOLEAN"></omr:variable>
+      <omr:variable name="99" code="CBO:YearsAlcoholConsumption:99" type="BOOLEAN"></omr:variable>
+     </omr:folder>
+    </omr:folder>
+   </omr:folder>
+   <omr:folder name="Biopsy">
+    <omr:folder name="Appearance">
+     <omr:variable name="Heterogenous" code="CBO:LesionAppearance:Heterogenous" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Homogenous" code="CBO:LesionAppearance:Homogenous" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Normal" code="CBO:LesionAppearance:Normal" type="BOOLEAN"></omr:variable>
+    </omr:folder>
+    <omr:folder name="Biopsy_site">
+     <omr:folder name="ICD-10-CM">
+      <omr:folder name="C00">
+       <omr:variable name="3_Lip,_inner_aspect,_mucosa_of_upper" code="CBO:ICD-10-CM:C00.3" type="BOOLEAN"></omr:variable>
+       <omr:variable name="4_Lip,_inner_aspect,_mucosa_of_lower" code="CBO:ICD-10-CM:C00.4" type="BOOLEAN"></omr:variable>
+      </omr:folder>
+      <omr:folder name="C02">
+       <omr:variable name="0_Tongue,_dorsal_surface,_anterior_2/3" code="CBO:ICD-10-CM:C02.0" type="BOOLEAN"></omr:variable>
+       <omr:variable name="1_Tongue,_lateral_border,_tip_of_tongue" code="CBO:ICD-10-CM:C02.1" type="BOOLEAN"></omr:variable>
+       <omr:variable name="2_Tongue,_ventral,_inferior_surface" code="CBO:ICD-10-CM:C02.2" type="BOOLEAN"></omr:variable>
+       <omr:variable name="3_Anterior_two-thirds_of_tongue,_part_unspecified" code="CBO:ICD-10-CM:C02.3" type="BOOLEAN"></omr:variable>
+       <omr:variable name="4_Lingual_tonsil_(previously_in_oropharynx)" code="CBO:ICD-10-CM:C02.4" type="BOOLEAN"></omr:variable>
+       <omr:variable name="8_Tongue,_overlapping_lesion_of_anterior_two-third" code="CBO:ICD-10-CM:C02.8" type="BOOLEAN"></omr:variable>
+      </omr:folder>
+      <omr:folder name="C03">
+       <omr:variable name="0_Gum,_upper_(alveolar_ridge,_mucosa,_gingiva)" code="CBO:ICD-10-CM:C03.0" type="BOOLEAN"></omr:variable>
+       <omr:variable name="1_Gum,_lower_(alveolar_ridge,_mucosa,_gingiva)" code="CBO:ICD-10-CM:C03.1" type="BOOLEAN"></omr:variable>
+      </omr:folder>
+      <omr:folder name="C04">
+       <omr:variable name="0_Mouth,_anterior_floor" code="CBO:ICD-10-CM:C04.0" type="BOOLEAN"></omr:variable>
+       <omr:variable name="1_Mouth,_lateral_floor" code="CBO:ICD-10-CM:C04.1" type="BOOLEAN"></omr:variable>
+       <omr:variable name="8_Mouth,_floor,_overlapping_lesion" code="CBO:ICD-10-CM:C04.8" type="BOOLEAN"></omr:variable>
+      </omr:folder>
+      <omr:folder name="C05">
+       <omr:variable name="0_Palate,_hard" code="CBO:ICD-10-CM:C05.0" type="BOOLEAN"></omr:variable>
+      </omr:folder>
+      <omr:folder name="C06">
+       <omr:variable name="0_Cheek_mucosa" code="CBO:ICD-10-CM:C06.0" type="BOOLEAN"></omr:variable>
+       <omr:variable name="1_Mouth,_vestibule_(buccal_sulcus_and_labial)" code="CBO:ICD-10-CM:C06.1" type="BOOLEAN"></omr:variable>
+       <omr:variable name="2_Retromolar_trigone" code="CBO:ICD-10-CM:C06.2" type="BOOLEAN"></omr:variable>
+       <omr:variable name="8_Overlapping_lesion_of_other_and_unspecified_parts_of_mouth" code="CBO:ICD-10-CM:C06.8" type="BOOLEAN"></omr:variable>
+      </omr:folder>
+     </omr:folder>
+    </omr:folder>
+    <omr:folder name="Type_of_lesion">
+     <omr:variable name="Cancer" code="CBO:LesionType:Cancer" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Candidal" code="CBO:LesionType:Candidal" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Control" code="CBO:LesionType:Control" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Dysplasia" code="CBO:LesionType:Dysplasia" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Erythroplakia" code="CBO:LesionType:Erythroplakia" type="BOOLEAN"></omr:variable>
+    </omr:folder>
+   </omr:folder>
+   <omr:folder name="For_confirmed_cancer_patient">
+    <omr:folder name="Clinical_TNM_stage">
+     <omr:folder name="M">
+      <omr:variable name="M0_No_distant_metastases" code="CBO:ClinicalTNM:M0" type="BOOLEAN"></omr:variable>
+      <omr:variable name="M1_Distant_metastases" code="CBO:ClinicalTNM:M1" type="BOOLEAN"></omr:variable>
+     </omr:folder>
+     <omr:folder name="N">
+      <omr:variable name="N0_No_regional_lymphadenopathy" code="CBO:ClinicalTNM:N0" type="BOOLEAN"></omr:variable>
+      <omr:variable name="N1_Single_ipsilateral_node_?_3cm" code="CBO:ClinicalTNM:N1" type="BOOLEAN"></omr:variable>
+      <omr:variable name="N2a_3cm_&lt;_single_ipsilateral_node_?_6cm" code="CBO:ClinicalTNM:N2a" type="BOOLEAN"></omr:variable>
+      <omr:variable name="N2b_Multiple_ipsilateral_nodes_?_6cm" code="CBO:ClinicalTNM:N2b" type="BOOLEAN"></omr:variable>
+      <omr:variable name="N2c_Bilateral_/_contralateral_node(s)_&gt;_6cm" code="CBO:ClinicalTNM:N2c" type="BOOLEAN"></omr:variable>
+      <omr:variable name="N3_Any_node_&gt;_6cm" code="CBO:ClinicalTNM:N3" type="BOOLEAN"></omr:variable>
+     </omr:folder>
+     <omr:folder name="T">
+      <omr:variable name="T0_No_evidence_of_primary" code="CBO:ClinicalTNM:T0" type="BOOLEAN"></omr:variable>
+      <omr:variable name="T1_Greatest_dimension_?_2cm" code="CBO:ClinicalTNM:T1" type="BOOLEAN"></omr:variable>
+      <omr:variable name="T2_2cm_&lt;_greatest_dimension_?_4cm" code="CBO:ClinicalTNM:T2" type="BOOLEAN"></omr:variable>
+      <omr:variable name="T3_Greatest_dimension_&gt;_4cm" code="CBO:ClinicalTNM:T3" type="BOOLEAN"></omr:variable>
+      <omr:variable name="T4_Invasion_of_deep_muscle_of_tongue,_skin,_cortical_bone_or_maxillary_sinus" code="CBO:ClinicalTNM:T4" type="BOOLEAN"></omr:variable>
+      <omr:variable name="TX_Primary_cannot_be_assessed" code="CBO:ClinicalTNM:TX" type="BOOLEAN"></omr:variable>
+      <omr:variable name="Tis_Carcinoma_in_situ" code="CBO:ClinicalTNM:Tis" type="BOOLEAN"></omr:variable>
+     </omr:folder>
+    </omr:folder>
+    <omr:folder name="Differentiation">
+     <omr:variable name="Moderate" code="CBO:CancerDifferentiation:Moderate" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Poor" code="CBO:CancerDifferentiation:Poor" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Well" code="CBO:CancerDifferentiation:Well" type="BOOLEAN"></omr:variable>
+    </omr:folder>
+    <omr:folder name="Pathological_TNM_stage">
+     <omr:folder name="pM">
+      <omr:variable name="M0_No_distant_metastases" code="CBO:PathologicaTNM:M0" type="BOOLEAN"></omr:variable>
+      <omr:variable name="M1_Distant_metastases" code="CBO:PathologicaTNM:M1" type="BOOLEAN"></omr:variable>
+     </omr:folder>
+     <omr:folder name="pN">
+      <omr:variable name="N0_No_regional_lymphadenopathy" code="CBO:PathologicaTNM:N0" type="BOOLEAN"></omr:variable>
+      <omr:variable name="N1_Single_ipsilateral_node_?_3cm" code="CBO:PathologicaTNM:N1" type="BOOLEAN"></omr:variable>
+      <omr:variable name="N2a_3cm_&lt;_single_ipsilateral_node_?_6cm" code="CBO:PathologicaTNM:N2a" type="BOOLEAN"></omr:variable>
+      <omr:variable name="N2b_Multiple_ipsilateral_nodes_?_6cm" code="CBO:PathologicaTNM:N2b" type="BOOLEAN"></omr:variable>
+      <omr:variable name="N2c_Bilateral_/_contralateral_node(s)_&gt;_6cm" code="CBO:PathologicaTNM:N2c" type="BOOLEAN"></omr:variable>
+      <omr:variable name="N3_Any_node_&gt;_6cm" code="CBO:PathologicaTNM:N3" type="BOOLEAN"></omr:variable>
+     </omr:folder>
+     <omr:folder name="pT">
+      <omr:variable name="T0_No_evidence_of_primary" code="CBO:PathologicaTNM:T0" type="BOOLEAN"></omr:variable>
+      <omr:variable name="T1_Greatest_dimension_?_2cm" code="CBO:PathologicaTNM:T1" type="BOOLEAN"></omr:variable>
+      <omr:variable name="T2_2cm_&lt;_greatest_dimension_?_4cm" code="CBO:PathologicaTNM:T2" type="BOOLEAN"></omr:variable>
+      <omr:variable name="T3_Greatest_dimension_&gt;_4cm" code="CBO:PathologicaTNM:T3" type="BOOLEAN"></omr:variable>
+      <omr:variable name="T4_Invasion_of_deep_muscle_of_tongue,_skin,_cortical_bone_or_maxillary_sinus" code="CBO:PathologicaTNM:T4" type="BOOLEAN"></omr:variable>
+      <omr:variable name="TX_Primary_cannot_be_assessed" code="CBO:PathologicaTNM:TX" type="BOOLEAN"></omr:variable>
+      <omr:variable name="Tis_Carcinoma_in_situ" code="CBO:PathologicaTNM:Tis" type="BOOLEAN"></omr:variable>
+     </omr:folder>
+    </omr:folder>
+   </omr:folder>
+   <omr:folder name="For_dysplasia_patient">
+    <omr:folder name="Differentiation">
+     <omr:variable name="Mild" code="CBO:DysplasiaDifferentiation:Mild" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Moderate" code="CBO:DysplasiaDifferentiation:Moderate" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Severe" code="CBO:DysplasiaDifferentiation:Severe" type="BOOLEAN"></omr:variable>
+    </omr:folder>
+   </omr:folder>
+   <omr:folder name="Smoking_history">
+    <omr:folder name="Betel_chewer">
+     <omr:variable name="No" code="CBO:Betel:No" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Yes" code="CBO:Betel:Yes" type="BOOLEAN"></omr:variable>
+    </omr:folder>
+    <omr:folder name="Cigarettes_per_day">
+     <omr:folder name="0-9">
+      <omr:variable name="0" code="CBO:Cigarettesperday:0" type="BOOLEAN"></omr:variable>
+      <omr:variable name="1" code="CBO:Cigarettesperday:1" type="BOOLEAN"></omr:variable>
+      <omr:variable name="2" code="CBO:Cigarettesperday:2" type="BOOLEAN"></omr:variable>
+      <omr:variable name="3" code="CBO:Cigarettesperday:3" type="BOOLEAN"></omr:variable>
+      <omr:variable name="4" code="CBO:Cigarettesperday:4" type="BOOLEAN"></omr:variable>
+      <omr:variable name="5" code="CBO:Cigarettesperday:5" type="BOOLEAN"></omr:variable>
+      <omr:variable name="6" code="CBO:Cigarettesperday:6" type="BOOLEAN"></omr:variable>
+      <omr:variable name="7" code="CBO:Cigarettesperday:7" type="BOOLEAN"></omr:variable>
+      <omr:variable name="8" code="CBO:Cigarettesperday:8" type="BOOLEAN"></omr:variable>
+      <omr:variable name="9" code="CBO:Cigarettesperday:9" type="BOOLEAN"></omr:variable>
+     </omr:folder>
+     <omr:folder name="10-19">
+      <omr:variable name="10" code="CBO:Cigarettesperday:10" type="BOOLEAN"></omr:variable>
+      <omr:variable name="11" code="CBO:Cigarettesperday:11" type="BOOLEAN"></omr:variable>
+      <omr:variable name="12" code="CBO:Cigarettesperday:12" type="BOOLEAN"></omr:variable>
+      <omr:variable name="13" code="CBO:Cigarettesperday:13" type="BOOLEAN"></omr:variable>
+      <omr:variable name="14" code="CBO:Cigarettesperday:14" type="BOOLEAN"></omr:variable>
+      <omr:variable name="15" code="CBO:Cigarettesperday:15" type="BOOLEAN"></omr:variable>
+      <omr:variable name="16" code="CBO:Cigarettesperday:16" type="BOOLEAN"></omr:variable>
+      <omr:variable name="17" code="CBO:Cigarettesperday:17" type="BOOLEAN"></omr:variable>
+      <omr:variable name="18" code="CBO:Cigarettesperday:18" type="BOOLEAN"></omr:variable>
+      <omr:variable name="19" code="CBO:Cigarettesperday:19" type="BOOLEAN"></omr:variable>
+     </omr:folder>
+     <omr:folder name="100-999">
+      <omr:variable name="100" code="CBO:Cigarettesperday:100" type="BOOLEAN"></omr:variable>
+      <omr:variable name="200" code="CBO:Cigarettesperday:200" type="BOOLEAN"></omr:variable>
+      <omr:variable name="300" code="CBO:Cigarettesperday:300" type="BOOLEAN"></omr:variable>
+      <omr:variable name="400" code="CBO:Cigarettesperday:400" type="BOOLEAN"></omr:variable>
+      <omr:variable name="500" code="CBO:Cigarettesperday:500" type="BOOLEAN"></omr:variable>
+      <omr:variable name="600" code="CBO:Cigarettesperday:" type="BOOLEAN"></omr:variable>
+      <omr:variable name="700" code="CBO:Cigarettesperday:700" type="BOOLEAN"></omr:variable>
+      <omr:variable name="800" code="CBO:Cigarettesperday:800" type="BOOLEAN"></omr:variable>
+      <omr:variable name="900" code="CBO:Cigarettesperday:900" type="BOOLEAN"></omr:variable>
+      <omr:variable name="999" code="CBO:Cigarettesperday:999" type="BOOLEAN"></omr:variable>
+     </omr:folder>
+     <omr:folder name="20-29">
+      <omr:variable name="20" code="CBO:Cigarettesperday:20" type="BOOLEAN"></omr:variable>
+      <omr:variable name="21" code="CBO:Cigarettesperday:21" type="BOOLEAN"></omr:variable>
+      <omr:variable name="22" code="CBO:Cigarettesperday:22" type="BOOLEAN"></omr:variable>
+      <omr:variable name="23" code="CBO:Cigarettesperday:23" type="BOOLEAN"></omr:variable>
+      <omr:variable name="24" code="CBO:Cigarettesperday:24" type="BOOLEAN"></omr:variable>
+      <omr:variable name="25" code="CBO:Cigarettesperday:25" type="BOOLEAN"></omr:variable>
+      <omr:variable name="26" code="CBO:Cigarettesperday:26" type="BOOLEAN"></omr:variable>
+      <omr:variable name="27" code="CBO:Cigarettesperday:27" type="BOOLEAN"></omr:variable>
+      <omr:variable name="28" code="CBO:Cigarettesperday:28" type="BOOLEAN"></omr:variable>
+      <omr:variable name="29" code="CBO:Cigarettesperday:29" type="BOOLEAN"></omr:variable>
+     </omr:folder>
+     <omr:folder name="30-39">
+      <omr:variable name="30" code="CBO:Cigarettesperday:30" type="BOOLEAN"></omr:variable>
+      <omr:variable name="31" code="CBO:Cigarettesperday:31" type="BOOLEAN"></omr:variable>
+      <omr:variable name="32" code="CBO:Cigarettesperday:32" type="BOOLEAN"></omr:variable>
+      <omr:variable name="33" code="CBO:Cigarettesperday:33" type="BOOLEAN"></omr:variable>
+      <omr:variable name="34" code="CBO:Cigarettesperday:34" type="BOOLEAN"></omr:variable>
+      <omr:variable name="35" code="CBO:Cigarettesperday:35" type="BOOLEAN"></omr:variable>
+      <omr:variable name="36" code="CBO:Cigarettesperday:36" type="BOOLEAN"></omr:variable>
+      <omr:variable name="37" code="CBO:Cigarettesperday:37" type="BOOLEAN"></omr:variable>
+      <omr:variable name="38" code="CBO:Cigarettesperday:38" type="BOOLEAN"></omr:variable>
+      <omr:variable name="39" code="CBO:Cigarettesperday:39" type="BOOLEAN"></omr:variable>
+     </omr:folder>
+     <omr:folder name="40-99">
+      <omr:variable name="40" code="CBO:Cigarettesperday:40" type="BOOLEAN"></omr:variable>
+      <omr:variable name="50" code="CBO:Cigarettesperday:50" type="BOOLEAN"></omr:variable>
+      <omr:variable name="60" code="CBO:Cigarettesperday:60" type="BOOLEAN"></omr:variable>
+      <omr:variable name="70" code="CBO:Cigarettesperday:70" type="BOOLEAN"></omr:variable>
+      <omr:variable name="80" code="CBO:Cigarettesperday:80" type="BOOLEAN"></omr:variable>
+      <omr:variable name="90" code="CBO:Cigarettesperday:90" type="BOOLEAN"></omr:variable>
+     </omr:folder>
+    </omr:folder>
+    <omr:folder name="Oz_tobacco_per_week">
+     <omr:folder name="0-9">
+      <omr:variable name="0" code="CBO:Tobaccoperweek:0" type="BOOLEAN"></omr:variable>
+      <omr:variable name="1" code="CBO:Tobaccoperweek:1" type="BOOLEAN"></omr:variable>
+      <omr:variable name="2" code="CBO:Tobaccoperweek:2" type="BOOLEAN"></omr:variable>
+      <omr:variable name="3" code="CBO:Tobaccoperweek:3" type="BOOLEAN"></omr:variable>
+      <omr:variable name="4" code="CBO:Tobaccoperweek:4" type="BOOLEAN"></omr:variable>
+      <omr:variable name="5" code="CBO:Tobaccoperweek:5" type="BOOLEAN"></omr:variable>
+      <omr:variable name="6" code="CBO:Tobaccoperweek:6" type="BOOLEAN"></omr:variable>
+      <omr:variable name="7" code="CBO:Tobaccoperweek:7" type="BOOLEAN"></omr:variable>
+      <omr:variable name="8" code="CBO:Tobaccoperweek:8" type="BOOLEAN"></omr:variable>
+      <omr:variable name="9" code="CBO:Tobaccoperweek:9" type="BOOLEAN"></omr:variable>
+     </omr:folder>
+     <omr:folder name="10-19">
+      <omr:variable name="10" code="CBO:Tobaccoperweek:10" type="BOOLEAN"></omr:variable>
+      <omr:variable name="11" code="CBO:Tobaccoperweek:11" type="BOOLEAN"></omr:variable>
+      <omr:variable name="12" code="CBO:Tobaccoperweek:12" type="BOOLEAN"></omr:variable>
+      <omr:variable name="13" code="CBO:Tobaccoperweek:13" type="BOOLEAN"></omr:variable>
+      <omr:variable name="14" code="CBO:Tobaccoperweek:14" type="BOOLEAN"></omr:variable>
+      <omr:variable name="15" code="CBO:Tobaccoperweek:15" type="BOOLEAN"></omr:variable>
+      <omr:variable name="16" code="CBO:Tobaccoperweek:16" type="BOOLEAN"></omr:variable>
+      <omr:variable name="17" code="CBO:Tobaccoperweek:17" type="BOOLEAN"></omr:variable>
+      <omr:variable name="18" code="CBO:Tobaccoperweek:18" type="BOOLEAN"></omr:variable>
+      <omr:variable name="19" code="CBO:Tobaccoperweek:19" type="BOOLEAN"></omr:variable>
+     </omr:folder>
+     <omr:folder name="100-999">
+      <omr:variable name="100" code="CBO:Tobaccoperweek:100" type="BOOLEAN"></omr:variable>
+      <omr:variable name="200" code="CBO:Tobaccoperweek:200" type="BOOLEAN"></omr:variable>
+      <omr:variable name="300" code="CBO:Tobaccoperweek:300" type="BOOLEAN"></omr:variable>
+      <omr:variable name="400" code="CBO:Tobaccoperweek:400" type="BOOLEAN"></omr:variable>
+      <omr:variable name="500" code="CBO:Tobaccoperweek:500" type="BOOLEAN"></omr:variable>
+      <omr:variable name="600" code="CBO:Tobaccoperweek:600" type="BOOLEAN"></omr:variable>
+      <omr:variable name="700" code="CBO:Tobaccoperweek:700" type="BOOLEAN"></omr:variable>
+      <omr:variable name="800" code="CBO:Tobaccoperweek:800" type="BOOLEAN"></omr:variable>
+      <omr:variable name="900" code="CBO:Tobaccoperweek:900" type="BOOLEAN"></omr:variable>
+      <omr:variable name="999" code="CBO:Tobaccoperweek:999" type="BOOLEAN"></omr:variable>
+     </omr:folder>
+     <omr:folder name="20-29">
+      <omr:variable name="20" code="CBO:Tobaccoperweek:20" type="BOOLEAN"></omr:variable>
+      <omr:variable name="21" code="CBO:Tobaccoperweek:21" type="BOOLEAN"></omr:variable>
+      <omr:variable name="22" code="CBO:Tobaccoperweek:22" type="BOOLEAN"></omr:variable>
+      <omr:variable name="23" code="CBO:Tobaccoperweek:23" type="BOOLEAN"></omr:variable>
+      <omr:variable name="24" code="CBO:Tobaccoperweek:24" type="BOOLEAN"></omr:variable>
+      <omr:variable name="25" code="CBO:Tobaccoperweek:25" type="BOOLEAN"></omr:variable>
+      <omr:variable name="26" code="CBO:Tobaccoperweek:26" type="BOOLEAN"></omr:variable>
+      <omr:variable name="27" code="CBO:Tobaccoperweek:27" type="BOOLEAN"></omr:variable>
+      <omr:variable name="28" code="CBO:Tobaccoperweek:28" type="BOOLEAN"></omr:variable>
+      <omr:variable name="29" code="CBO:Tobaccoperweek:29" type="BOOLEAN"></omr:variable>
+     </omr:folder>
+     <omr:folder name="30-39">
+      <omr:variable name="30" code="CBO:Tobaccoperweek:30" type="BOOLEAN"></omr:variable>
+      <omr:variable name="31" code="CBO:Tobaccoperweek:31" type="BOOLEAN"></omr:variable>
+      <omr:variable name="32" code="CBO:Tobaccoperweek:32" type="BOOLEAN"></omr:variable>
+      <omr:variable name="33" code="CBO:Tobaccoperweek:33" type="BOOLEAN"></omr:variable>
+      <omr:variable name="34" code="CBO:Tobaccoperweek:34" type="BOOLEAN"></omr:variable>
+      <omr:variable name="35" code="CBO:Tobaccoperweek:35" type="BOOLEAN"></omr:variable>
+      <omr:variable name="36" code="CBO:Tobaccoperweek:36" type="BOOLEAN"></omr:variable>
+      <omr:variable name="37" code="CBO:Tobaccoperweek:37" type="BOOLEAN"></omr:variable>
+      <omr:variable name="38" code="CBO:Tobaccoperweek:38" type="BOOLEAN"></omr:variable>
+      <omr:variable name="39" code="CBO:Tobaccoperweek:39" type="BOOLEAN"></omr:variable>
+     </omr:folder>
+     <omr:folder name="40-99">
+      <omr:variable name="40" code="CBO:Tobaccoperweek:40" type="BOOLEAN"></omr:variable>
+      <omr:variable name="50" code="CBO:Tobaccoperweek:50" type="BOOLEAN"></omr:variable>
+      <omr:variable name="60" code="CBO:Tobaccoperweek:60" type="BOOLEAN"></omr:variable>
+      <omr:variable name="70" code="CBO:Tobaccoperweek:70" type="BOOLEAN"></omr:variable>
+      <omr:variable name="80" code="CBO:Tobaccoperweek:80" type="BOOLEAN"></omr:variable>
+      <omr:variable name="90" code="CBO:Tobaccoperweek:90" type="BOOLEAN"></omr:variable>
+     </omr:folder>
+    </omr:folder>
+    <omr:folder name="Smoker">
+     <omr:variable name="No" code="CBO:Smoker:No" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Yes" code="CBO:Smoker:Yes" type="BOOLEAN"></omr:variable>
+    </omr:folder>
+    <omr:folder name="Stopped_smoking">
+     <omr:variable name="No" code="CBO:Stopped:No" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Yes" code="CBO:Stopped:Yes" type="BOOLEAN"></omr:variable>
+    </omr:folder>
+    <omr:folder name="Years_smoked">
+     <omr:folder name="0-9">
+      <omr:variable name="0" code="CBO:Years_smoked:0" type="BOOLEAN"></omr:variable>
+      <omr:variable name="1" code="CBO:Years_smoked:1" type="BOOLEAN"></omr:variable>
+      <omr:variable name="2" code="CBO:Years_smoked:2" type="BOOLEAN"></omr:variable>
+      <omr:variable name="3" code="CBO:Years_smoked:3" type="BOOLEAN"></omr:variable>
+      <omr:variable name="4" code="CBO:Years_smoked:4" type="BOOLEAN"></omr:variable>
+      <omr:variable name="5" code="CBO:Years_smoked:5" type="BOOLEAN"></omr:variable>
+      <omr:variable name="6" code="CBO:Years_smoked:6" type="BOOLEAN"></omr:variable>
+      <omr:variable name="7" code="CBO:Years_smoked:7" type="BOOLEAN"></omr:variable>
+      <omr:variable name="8" code="CBO:Years_smoked:8" type="BOOLEAN"></omr:variable>
+      <omr:variable name="9" code="CBO:Years_smoked:9" type="BOOLEAN"></omr:variable>
+     </omr:folder>
+     <omr:folder name="10-19">
+      <omr:variable name="10" code="CBO:Years_smoked:10" type="BOOLEAN"></omr:variable>
+      <omr:variable name="11" code="CBO:Years_smoked:11" type="BOOLEAN"></omr:variable>
+      <omr:variable name="12" code="CBO:Years_smoked:12" type="BOOLEAN"></omr:variable>
+      <omr:variable name="13" code="CBO:Years_smoked:13" type="BOOLEAN"></omr:variable>
+      <omr:variable name="14" code="CBO:Years_smoked:14" type="BOOLEAN"></omr:variable>
+      <omr:variable name="15" code="CBO:Years_smoked:15" type="BOOLEAN"></omr:variable>
+      <omr:variable name="16" code="CBO:Years_smoked:16" type="BOOLEAN"></omr:variable>
+      <omr:variable name="17" code="CBO:Years_smoked:17" type="BOOLEAN"></omr:variable>
+      <omr:variable name="18" code="CBO:Years_smoked:18" type="BOOLEAN"></omr:variable>
+      <omr:variable name="19" code="CBO:Years_smoked:19" type="BOOLEAN"></omr:variable>
+     </omr:folder>
+     <omr:folder name="20-29">
+      <omr:variable name="20" code="CBO:Years_smoked:20" type="BOOLEAN"></omr:variable>
+      <omr:variable name="21" code="CBO:Years_smoked:21" type="BOOLEAN"></omr:variable>
+      <omr:variable name="22" code="CBO:Years_smoked:22" type="BOOLEAN"></omr:variable>
+      <omr:variable name="23" code="CBO:Years_smoked:23" type="BOOLEAN"></omr:variable>
+      <omr:variable name="24" code="CBO:Years_smoked:24" type="BOOLEAN"></omr:variable>
+      <omr:variable name="25" code="CBO:Years_smoked:25" type="BOOLEAN"></omr:variable>
+      <omr:variable name="26" code="CBO:Years_smoked:26" type="BOOLEAN"></omr:variable>
+      <omr:variable name="27" code="CBO:Years_smoked:27" type="BOOLEAN"></omr:variable>
+      <omr:variable name="28" code="CBO:Years_smoked:28" type="BOOLEAN"></omr:variable>
+      <omr:variable name="29" code="CBO:Years_smoked:29" type="BOOLEAN"></omr:variable>
+     </omr:folder>
+     <omr:folder name="30-39">
+      <omr:variable name="30" code="CBO:Years_smoked:30" type="BOOLEAN"></omr:variable>
+      <omr:variable name="31" code="CBO:Years_smoked:31" type="BOOLEAN"></omr:variable>
+      <omr:variable name="32" code="CBO:Years_smoked:32" type="BOOLEAN"></omr:variable>
+      <omr:variable name="33" code="CBO:Years_smoked:33" type="BOOLEAN"></omr:variable>
+      <omr:variable name="34" code="CBO:Years_smoked:34" type="BOOLEAN"></omr:variable>
+      <omr:variable name="35" code="CBO:Years_smoked:35" type="BOOLEAN"></omr:variable>
+      <omr:variable name="36" code="CBO:Years_smoked:36" type="BOOLEAN"></omr:variable>
+      <omr:variable name="37" code="CBO:Years_smoked:37" type="BOOLEAN"></omr:variable>
+      <omr:variable name="38" code="CBO:Years_smoked:38" type="BOOLEAN"></omr:variable>
+      <omr:variable name="39" code="CBO:Years_smoked:39" type="BOOLEAN"></omr:variable>
+     </omr:folder>
+     <omr:folder name="40-49">
+      <omr:variable name="40" code="CBO:Years_smoked:40" type="BOOLEAN"></omr:variable>
+      <omr:variable name="41" code="CBO:Years_smoked:41" type="BOOLEAN"></omr:variable>
+      <omr:variable name="42" code="CBO:Years_smoked:42" type="BOOLEAN"></omr:variable>
+      <omr:variable name="43" code="CBO:Years_smoked:43" type="BOOLEAN"></omr:variable>
+      <omr:variable name="44" code="CBO:Years_smoked:44" type="BOOLEAN"></omr:variable>
+      <omr:variable name="45" code="CBO:Years_smoked:45" type="BOOLEAN"></omr:variable>
+      <omr:variable name="46" code="CBO:Years_smoked:46" type="BOOLEAN"></omr:variable>
+      <omr:variable name="47" code="CBO:Years_smoked:47" type="BOOLEAN"></omr:variable>
+      <omr:variable name="48" code="CBO:Years_smoked:48" type="BOOLEAN"></omr:variable>
+      <omr:variable name="49" code="CBO:Years_smoked:49" type="BOOLEAN"></omr:variable>
+     </omr:folder>
+     <omr:folder name="50-59">
+      <omr:variable name="50" code="CBO:Years_smoked:50" type="BOOLEAN"></omr:variable>
+      <omr:variable name="51" code="CBO:Years_smoked:51" type="BOOLEAN"></omr:variable>
+      <omr:variable name="52" code="CBO:Years_smoked:52" type="BOOLEAN"></omr:variable>
+      <omr:variable name="53" code="CBO:Years_smoked:53" type="BOOLEAN"></omr:variable>
+      <omr:variable name="54" code="CBO:Years_smoked:54" type="BOOLEAN"></omr:variable>
+      <omr:variable name="55" code="CBO:Years_smoked:55" type="BOOLEAN"></omr:variable>
+      <omr:variable name="56" code="CBO:Years_smoked:56" type="BOOLEAN"></omr:variable>
+      <omr:variable name="57" code="CBO:Years_smoked:57" type="BOOLEAN"></omr:variable>
+      <omr:variable name="58" code="CBO:Years_smoked:58" type="BOOLEAN"></omr:variable>
+      <omr:variable name="59" code="CBO:Years_smoked:59" type="BOOLEAN"></omr:variable>
+     </omr:folder>
+     <omr:folder name="60-69">
+      <omr:variable name="60" code="CBO:Years_smoked:60" type="BOOLEAN"></omr:variable>
+      <omr:variable name="61" code="CBO:Years_smoked:61" type="BOOLEAN"></omr:variable>
+      <omr:variable name="62" code="CBO:Years_smoked:62" type="BOOLEAN"></omr:variable>
+      <omr:variable name="63" code="CBO:Years_smoked:63" type="BOOLEAN"></omr:variable>
+      <omr:variable name="64" code="CBO:Years_smoked:64" type="BOOLEAN"></omr:variable>
+      <omr:variable name="65" code="CBO:Years_smoked:65" type="BOOLEAN"></omr:variable>
+      <omr:variable name="66" code="CBO:Years_smoked:66" type="BOOLEAN"></omr:variable>
+      <omr:variable name="67" code="CBO:Years_smoked:67" type="BOOLEAN"></omr:variable>
+      <omr:variable name="68" code="CBO:Years_smoked:68" type="BOOLEAN"></omr:variable>
+      <omr:variable name="69" code="CBO:Years_smoked:69" type="BOOLEAN"></omr:variable>
+     </omr:folder>
+     <omr:folder name="70-100">
+      <omr:variable name="100" code="CBO:Years_smoked:100" type="BOOLEAN"></omr:variable>
+      <omr:variable name="70" code="CBO:Years_smoked:70" type="BOOLEAN"></omr:variable>
+      <omr:variable name="71" code="CBO:Years_smoked:71" type="BOOLEAN"></omr:variable>
+      <omr:variable name="72" code="CBO:Years_smoked:72" type="BOOLEAN"></omr:variable>
+      <omr:variable name="73" code="CBO:Years_smoked:73" type="BOOLEAN"></omr:variable>
+      <omr:variable name="74" code="CBO:Years_smoked:74" type="BOOLEAN"></omr:variable>
+      <omr:variable name="75" code="CBO:Years_smoked:75" type="BOOLEAN"></omr:variable>
+      <omr:variable name="76" code="CBO:Years_smoked:76" type="BOOLEAN"></omr:variable>
+      <omr:variable name="77" code="CBO:Years_smoked:77" type="BOOLEAN"></omr:variable>
+      <omr:variable name="78" code="CBO:Years_smoked:78" type="BOOLEAN"></omr:variable>
+      <omr:variable name="79" code="CBO:Years_smoked:79" type="BOOLEAN"></omr:variable>
+      <omr:variable name="80" code="CBO:Years_smoked:80" type="BOOLEAN"></omr:variable>
+      <omr:variable name="81" code="CBO:Years_smoked:81" type="BOOLEAN"></omr:variable>
+      <omr:variable name="82" code="CBO:Years_smoked:82" type="BOOLEAN"></omr:variable>
+      <omr:variable name="83" code="CBO:Years_smoked:83" type="BOOLEAN"></omr:variable>
+      <omr:variable name="84" code="CBO:Years_smoked:84" type="BOOLEAN"></omr:variable>
+      <omr:variable name="85" code="CBO:Years_smoked:85" type="BOOLEAN"></omr:variable>
+      <omr:variable name="86" code="CBO:Years_smoked:86" type="BOOLEAN"></omr:variable>
+      <omr:variable name="87" code="CBO:Years_smoked:87" type="BOOLEAN"></omr:variable>
+      <omr:variable name="88" code="CBO:Years_smoked:88" type="BOOLEAN"></omr:variable>
+      <omr:variable name="89" code="CBO:Years_smoked:89" type="BOOLEAN"></omr:variable>
+      <omr:variable name="90" code="CBO:Years_smoked:90" type="BOOLEAN"></omr:variable>
+      <omr:variable name="91" code="CBO:Years_smoked:91" type="BOOLEAN"></omr:variable>
+      <omr:variable name="92" code="CBO:Years_smoked:92" type="BOOLEAN"></omr:variable>
+      <omr:variable name="93" code="CBO:Years_smoked:93" type="BOOLEAN"></omr:variable>
+      <omr:variable name="94" code="CBO:Years_smoked:94" type="BOOLEAN"></omr:variable>
+      <omr:variable name="95" code="CBO:Years_smoked:95" type="BOOLEAN"></omr:variable>
+      <omr:variable name="96" code="CBO:Years_smoked:96" type="BOOLEAN"></omr:variable>
+      <omr:variable name="97" code="CBO:Years_smoked:97" type="BOOLEAN"></omr:variable>
+      <omr:variable name="98" code="CBO:Years_smoked:98" type="BOOLEAN"></omr:variable>
+      <omr:variable name="99" code="CBO:Years_smoked:99" type="BOOLEAN"></omr:variable>
+     </omr:folder>
+    </omr:folder>
+   </omr:folder>
+  </omr:folder>
+ </omr:folder>
+</omr:container>

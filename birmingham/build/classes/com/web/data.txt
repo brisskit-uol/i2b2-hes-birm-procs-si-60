@@ -1,0 +1,7 @@
+This is a sample file that can be used as input to the
+testSig program.
+
+Any file can be used as input to
+that program, which generates a signature
+for the file, and subsequently verifies that the
+signature is authentic.

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<omr:container xmlns:omr="http://briccs.org.uk/xml/onyxmetadata-refined/v1.0/omr" name="BRISSkitHack">
+ <omr:folder name="BRISSkitHack">
+  <omr:folder name="ICD10">
+   <omr:folder name="Certain infectious and parasitic diseases">
+    <omr:folder name="Bacterial, viral and other infectious agents">
+     <omr:variable name="Other bacterial agents as the cause of diseases classified to other chapters" code="ICD10:B96" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Streptococcus and staphylococcus as the cause of diseases classified to other chapters" code="ICD10:B95" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Viral agents as the cause of diseases classified to other chapters" code="ICD10:B97" type="BOOLEAN"></omr:variable>
+    </omr:folder>
+    <omr:folder name="Helminthiases">
+     <omr:variable name="Ascariasis" code="ICD10:B77" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Cysticercosis" code="ICD10:B69" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Diphyllobothriasis and sparganosis" code="ICD10:B70" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Dracunculiasis" code="ICD10:B72" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Echinococcosis" code="ICD10:B67" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Enterobiasis" code="ICD10:B80" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Filariasis" code="ICD10:B74" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Hookworm diseases" code="ICD10:B76" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Onchocerciasis" code="ICD10:B73" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Other cestode infections" code="ICD10:B71" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Other fluke infections" code="ICD10:B66" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Other helminthiases" code="ICD10:B83" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Other intestinal helminthiases, not elsewhere classified" code="ICD10:B81" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Schistosomiasis [bilharziasis]" code="ICD10:B65" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Strongyloidiasis" code="ICD10:B78" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Taeniasis" code="ICD10:B68" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Trichinellosis" code="ICD10:B75" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Trichuriasis" code="ICD10:B79" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Unspecified intestinal parasitism" code="ICD10:B82" type="BOOLEAN"></omr:variable>
+    </omr:folder>
+    <omr:folder name="Human immunodeficiency virus [HIV] disease">
+     <omr:variable name="Human immunodeficiency virus [HIV] disease resulting in infectious and parasitic diseases" code="ICD10:B20" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Human immunodeficiency virus [HIV] disease resulting in malignant neoplasms" code="ICD10:B21" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Human immunodeficiency virus [HIV] disease resulting in other conditions" code="ICD10:B23" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Human immunodeficiency virus [HIV] disease resulting in other specified diseases" code="ICD10:B22" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Unspecified human immunodeficiency virus [HIV] disease" code="ICD10:B24" type="BOOLEAN"></omr:variable>
+    </omr:folder>
+    <omr:folder name="Mycoses">
+     <omr:variable name="Aspergillosis" code="ICD10:B44" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Blastomycosis" code="ICD10:B40" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Candidiasis" code="ICD10:B37" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Chromomycosis and phaeomycotic abscess" code="ICD10:B43" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Coccidioidomycosis" code="ICD10:B38" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Cryptococcosis" code="ICD10:B45" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Dermatophytosis" code="ICD10:B35" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Histoplasmosis" code="ICD10:B39" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Mycetoma" code="ICD10:B47" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Other mycoses, not elsewhere classified" code="ICD10:B48" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Other superficial mycoses" code="ICD10:B36" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Paracoccidioidomycosis" code="ICD10:B41" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Sporotrichosis" code="ICD10:B42" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Unspecified mycosis" code="ICD10:B49" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Zygomycosis" code="ICD10:B46" type="BOOLEAN"></omr:variable>
+    </omr:folder>
+    <omr:folder name="Other infectious diseases">
+     <omr:variable name="Other and unspecified infectious diseases" code="ICD10:B99" type="BOOLEAN"></omr:variable>
+    </omr:folder>
+    <omr:folder name="Other viral diseases">
+     <omr:variable name="Cytomegaloviral disease" code="ICD10:B25" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Infectious mononucleosis" code="ICD10:B27" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Mumps" code="ICD10:B26" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Other viral diseases, not elsewhere classified" code="ICD10:B33" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Viral conjunctivitis" code="ICD10:B30" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Viral infection of unspecified site" code="ICD10:B34" type="BOOLEAN"></omr:variable>
+    </omr:folder>
+    <omr:folder name="Pediculosis, acariasis and other infestations">
+     <omr:variable name="Myiasis" code="ICD10:B87" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Other infestations" code="ICD10:B88" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Pediculosis and phthiriasis" code="ICD10:B85" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Scabies" code="ICD10:B86" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Unspecified parasitic disease" code="ICD10:B89" type="BOOLEAN"></omr:variable>
+    </omr:folder>
+    <omr:folder name="Protozoal diseases">
+     <omr:variable name="African trypanosomiasis" code="ICD10:B56" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Chagas disease" code="" type=""></omr:variable>
+     <omr:variable name="Leishmaniasis" code="ICD10:B55" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Other parasitologically confirmed malaria" code="ICD10:B53" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Other protozoal diseases, not elsewhere classified" code="ICD10:B60" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Plasmodium falciparum malaria" code="ICD10:B50" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Plasmodium malariae malaria" code="ICD10:B52" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Plasmodium vivax malaria" code="ICD10:B51" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Pneumocystosis" code="ICD10:B59" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Toxoplasmosis" code="ICD10:B58" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Unspecified malaria" code="ICD10:B54" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Unspecified protozoal disease" code="ICD10:B64" type="BOOLEAN"></omr:variable>
+    </omr:folder>
+    <omr:folder name="Sequelae of infectious and parasitic diseases">
+     <omr:variable name="Sequelae of leprosy" code="ICD10:B92" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Sequelae of other and unspecified infectious and parasitic diseases" code="ICD10:B94" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Sequelae of poliomyelitis" code="ICD10:B91" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Sequelae of tuberculosis" code="ICD10:B90" type="BOOLEAN"></omr:variable>
+    </omr:folder>
+    <omr:folder name="Viral hepatitis">
+     <omr:variable name="Acute hepatitis A" code="ICD10:B15" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Acute hepatitis B" code="ICD10:B16" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Chronic viral hepatitis" code="ICD10:B18" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Other acute viral hepatitis" code="ICD10:B17" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Unspecified viral hepatitis" code="ICD10:B19" type="BOOLEAN"></omr:variable>
+    </omr:folder>
+    <omr:folder name="Viral infections characterized by skin and mucous membrane lesions">
+     <omr:variable name="Herpesviral [herpes simplex] infections" code="ICD10:B00" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Measles" code="ICD10:B05" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Monkeypox" code="ICD10:B04" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Other viral infections characterized by skin and mucous membrane lesions, not elsewhere classified" code="ICD10:B08" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Rubella [German measles]" code="ICD10:B06" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Smallpox" code="ICD10:B03" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Unspecified viral infection characterized by skin and mucous membrane lesions" code="ICD10:B09" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Varicella [chickenpox]" code="ICD10:B01" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Viral warts" code="ICD10:B07" type="BOOLEAN"></omr:variable>
+     <omr:variable name="Zoster [herpes zoster]" code="ICD10:B02" type="BOOLEAN"></omr:variable>
+    </omr:folder>
+   </omr:folder>
+  </omr:folder>
+ </omr:folder>
+</omr:container>

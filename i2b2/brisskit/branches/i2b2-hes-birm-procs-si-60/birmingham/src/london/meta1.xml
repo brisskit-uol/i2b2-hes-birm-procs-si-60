@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<omr:container xmlns:omr="http://briccs.org.uk/xml/onyxmetadata-refined/v1.0/omr" name="hes">
+  <omr:folder name="HES">     
+     <omr:folder name="A00-B99-Certain infectious" description="A00-B99-Certain infectious" code="HES:A00-B99">
+         <omr:variable name="A00-A09-Intestinal infectious diseases" description="A00-A09-Intestinal infectious diseases" type="BOOLEAN" code="HES:A00-A09"/>
+         <omr:variable name="A15-A19-Tuberculosis" description="A15-A19-Tuberculosis" type="BOOLEAN" code="HES:A15-A19"/>
+     </omr:folder>
+     <omr:folder name="C00-D48-Neoplasms" description="C00-D48-Neoplasms" code="HES:C00-D48">
+         <omr:variable name="C00-C14-Malignant neoplasms of lip, oral cavity and pharynx" description="C00-C14-Malignant neoplasms of lip, oral cavity and pharynx" type="BOOLEAN" code="HES:C00-C14"/>
+     </omr:folder>
+  </omr:folder>
+</omr:container>
